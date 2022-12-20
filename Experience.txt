@@ -1,0 +1,73 @@
+<section class="projects_area p_120">
+<div class="container">
+<div class="main_title">
+<h2>Leadership expirence</h2>
+<p>"A leader is the one who knows the way goes the way and shows the way"</p>
+</div>
+<div class="projects_fillter">
+<ul class="filter list">
+<li class="active" data-filter="*"><a href="#">All Categories</a></li>
+<li data-filter=".brand"><a href="#">Public Speakings</a></li>
+<li data-filter=".work"><a href="#">Seminars </a></li>
+<li data-filter=".web"><a href="#">Workshops</a></li>
+</ul>
+</div>
+<div class="projects_inner row">
+
+<div class="col-lg-4 col-sm-6 brand web">
+<div class="projects_item">
+<img class="img-fluid" src="img/Humcen finalist 2021.jpeg" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work">
+<div class="projects_item">
+<img class="img-fluid" src="img/Leadership excellence talk - Sairam AIDS dept.jpeg" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 work">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/1st Time in NEWS Paper.jpg" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand web">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/Entreprenuership awarness camp guest speaker - 22-09-2021.jpeg" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/Sai e-fest jury member.jpeg" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work web">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/3 day interactive web development workshop (1).png" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work web">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/3 day interactive web development workshop (2).png" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work web">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/" alt="">
+</div>
+</div>
+
+<div class="col-lg-4 col-sm-6 brand work web">
+<div class="projects_item">
+<img class="img-fluid" src="img/leadership/" alt="">
+</div>
+</div>
+
+</div>
+</div>
+</section>
