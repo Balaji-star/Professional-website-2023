@@ -16,7 +16,7 @@
 
 <div class="col-lg-4 col-sm-6 brand web">
 <div class="projects_item">
-<img class="img-fluid" src="img/Humcen finalist 2021.jpeg" alt="">
+<img class="img-fluid" src="img/balaji-rajendran-young-entreprenuer-of-the-year.png" alt="">
 </div>
 </div>
 
